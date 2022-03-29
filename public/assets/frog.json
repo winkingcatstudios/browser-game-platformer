@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "frog.png",
+	"frame": {"x":0,"y":0,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "frog_dead.png",
+	"frame": {"x":128,"y":0,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "frog_move.png",
+	"frame": {"x":256,"y":0,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "frog.png",
+	"format": "RGBA8888",
+	"size": {"w":384,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0658e29dd526f733edcde26c0dcf6cc8:333237892502890cc5dbec202e744377:8dde0dd0197344c2f9f9f01d8d204375$"
+}
+}
