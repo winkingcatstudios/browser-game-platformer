@@ -1,0 +1,91 @@
+---Free software used---
+                Tiled (https://www.mapeditor.org/)
+                TexturePacker (https://www.codeandweb.com/texturepacker)
+
+
+---Licenses---
+        ---Tileset (ground, obstacles, and enemies)---
+                ###############################################################################
+
+
+                        Platformer Pack Redux
+                        by Kenney Vleugels for Kenney (www.kenney.nl)
+
+                                ------------------------------
+
+                        License (Creative Commons Zero, CC0)
+                        http://creativecommons.org/publicdomain/zero/1.0/
+
+                        You may use these graphics in personal and commercial projects.
+                        Credit (Kenney or www.kenney.nl) would be nice but is not mandatory.
+
+                                ------------------------------
+
+                        Donate:   http://donate.kenney.nl/
+                        Request:  http://request.kenney.nl/
+
+
+                ###############################################################################
+
+
+
+        ---Character Sprites (monkey)---
+                THIS LICENSE AGREEMENT, is between you (the “Licensee”), and Razeware LLC (http://www.raywenderlich.com) (the “Licensor”). By purchasing, downloading, or using any art licensed by Razeware LLC, you agree to the following:
+
+
+                Ownership of Work
+
+                Licensor owns all proprietary rights in and to all copyrightable works, generally described as game art, all of which are displayed and viewable at http://www.gameartguppy.com (the “Work”), and has the exclusive right to license others to produce, copy, make, or sell the Work.
+
+
+                Grant of License
+
+                Licensee is granted a non-exclusive, non-transferrable license to use the Work, royalty free, for personal and commercial projects, including games and apps created for the computer, web, or smartphone/tablet. Licensee may modify Work.
+
+
+                License Prohibitions
+
+                Licensee may not:
+                a) Resell game art, or resell modified game art. 
+                b) Use game art in a template of any nature for distribution or sale to third parties.
+                c) Place licensed art on any website in a complete or archived downloadable format. 
+
+                Assignment
+
+                Licensee may not convey, sublicense, assign, transfer, pledge, hypothecate, encumber or otherwise dispose of this Agreement without the prior written consent of the Licensor.
+
+
+                Indemnification
+
+                Licensee shall fully indemnify, defend, and hold harmless Licensor from and against any and all claims, losses, damages, expenses, and liability.
+
+
+                Acknowledgement
+
+                YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT AND UNDERSTAND IT PRIOR TO AGREEING TO IT. YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT. YOU FURTHER AGREE THAT IT IS THE COMPLETE AND EXCLUSIVE STATEMENT OF THE AGREEMENT BETWEEN YOU AND RAZEWARE LLC, WHICH SUPERSEDES ANY PROPOSAL OR PRIOR AGREEMENT, ORAL OR WRITTEN, AND ANY OTHER COMMUNICATION BETWEEN YOU AND RAZEWARE LLC RELATING TO THE SUBJECT OF THIS AGREEMENT.
+
+
+
+        ---Parcel Template for Phaser (packaging template, no code provided) ---
+                MIT License
+
+                Copyright (c) 2019 ourcade
+
+                Permission is hereby granted, free of charge, to any person obtaining a copy
+                of this software and associated documentation files (the "Software"), to deal
+                in the Software without restriction, including without limitation the rights
+                to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+                copies of the Software, and to permit persons to whom the Software is
+                furnished to do so, subject to the following conditions:
+
+                The above copyright notice and this permission notice shall be included in all
+                copies or substantial portions of the Software.
+
+                THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+                IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+                FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+                AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+                LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+                OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+                SOFTWARE.
+
