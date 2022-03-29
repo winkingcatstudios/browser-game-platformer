@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "sawHalf.png",
+	"frame": {"x":0,"y":0,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "sawHalf_dead.png",
+	"frame": {"x":128,"y":0,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+},
+{
+	"filename": "sawHalf_move.png",
+	"frame": {"x":256,"y":0,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "saw.png",
+	"format": "RGBA8888",
+	"size": {"w":384,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9a047fe543c0cd06816c4d03804a15dd:d836e7e7ca5bf734837b1d8e6ef15a2e:9772fcf83d765d42dac1dff9ec656e95$"
+}
+}
