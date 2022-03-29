@@ -1,4 +1,5 @@
 # ts-phaser3-browser-game-monkey-platformer
+TypeScript Phaser3 browser platformer game in which you control a monkey and collect bananas across three levels
 
 -----Gameplay Instructions-----<br />
 Controls<br />
