@@ -1,4 +1,4 @@
-# cs43700-finalProject
+# ts-phaser3-browser-game-monkey-platformer
 
 -----Gameplay Instructions-----<br />
 Controls<br />
